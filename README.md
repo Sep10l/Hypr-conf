@@ -5,7 +5,7 @@ my Config/s for arch linux Hyprland, binds and interface
 
   # Additional
 
-make sure to source the file in your hyprland.conf file
+make sure to source the file in your hyprland.conf file if you do not want to import it directly
 
   # Installation
 
